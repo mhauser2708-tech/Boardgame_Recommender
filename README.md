@@ -43,9 +43,4 @@ The web application never calls BoardGameGeek directly. All BGG requests are mad
 - [ ] Containerisation and deployment
 
 
-## Data source and attribution
-
-<a href="https://boardgamegeek.com"><img src="docs/powered-by-bgg.png" alt="Powered by BGG" height="40"></a>
-
-Game data is provided by [BoardGameGeek](https://boardgamegeek.com) via the BGG XML API and is used in accordance with the [XML API Terms of Use](https://boardgamegeek.com/wiki/page/XML_API_Terms_of_Use). This is a non-commercial, educational project and is not affiliated with or endorsed by BoardGameGeek. BGG data is not redistributed in this repository.
 
